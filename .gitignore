@@ -1,5 +1,4 @@
 composer.phar
-/vendor/
 
 config.inc.php
 assets/templates_c/*.php
